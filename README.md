@@ -13,3 +13,6 @@ If you're interested in a screencast tutorial that goes step-by-step through thi
 * Signup/login/logout endpoints
 * Social authentication via `django-allauth`
 * Documentation
+
+#  to fix react router dom error 
+* npm install --save react-router-dom
